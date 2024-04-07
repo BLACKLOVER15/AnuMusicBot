@@ -50,7 +50,7 @@ async def init():
         pass
     await Lipps.decorators()
     LOGGER("LippsMusic").info(
-        "Lipps Music Bot Started Successfully, Now Give your girlfriend chumt to @Lippsxd"
+        "Lipps Music Bot Started Successfully, Now Give your girlfriend chumt to @Blackl0ver_uff"
     )
     await idle()
     await app.stop()
