@@ -1,7 +1,7 @@
 {
-    "name": "Lipps Music Bot",
+    "name": "Anu Music Bot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/7f6a403cd9874e6c9c38e.jpg",
+    "logo": "https://telegra.ph/file/b82992fbb4973c11ecb31.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "28916182",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "d1b35f94f2b90716d76f8f318abedce9",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,31 +29,31 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "Anumusicbot",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://black786:black123@cluster0.hoxbwfe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6943682712",
         "required": true
       },
       "START_IMG_URL": {
         "description": "The Pic Which Will Be show When you Give The /start the bot in private.",
-        "value": "https://graph.org/file/7f6a403cd9874e6c9c38e.jpg",
+        "value": "https://telegra.ph/file/b82992fbb4973c11ecb31.jpg",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "Your Telegram Groupl link.",
-        "value": "",
+        "value": "Exampur15",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from chrome on Telegram.",
+        "description": "A Pyrogram v2 String Session from@StringsessionBlack_bot  on Telegram.",
         "value": "",
         "required": true
       },
@@ -69,7 +69,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Not Channel Id .",
-        "value": "",
+        "value": "-1002108904207",
         "required": true
       }
     },
