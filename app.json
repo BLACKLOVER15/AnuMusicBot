@@ -49,7 +49,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Your Telegram Groupl link.",
-        "value": "Exampur15",
+        "value": "https://t.me/Exampur15",
         "required": true
       },
       "STRING_SESSION": {
