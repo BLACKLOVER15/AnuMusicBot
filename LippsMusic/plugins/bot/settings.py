@@ -71,7 +71,7 @@ async def settings_cb(client, CallbackQuery, _):
 @languageCB 
 async def gib_repo(client, CallbackQuery, _): 
     await CallbackQuery.edit_message_media( 
-          InputMediaPhoto("https://telegra.ph/file/7fc57533c40ff57d070c3.jpg", caption="<b>ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs/ᴄʜᴀɴɴᴇʟs ✨</b>"), 
+          InputMediaPhoto("https://telegra.ph/file/b82992fbb4973c11ecb31.jpg", caption="<b>ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs/ᴄʜᴀɴɴᴇʟs ✨</b>"), 
     ), 
     return await CallbackQuery.edit_message_text( 
         reply_markup=InlineKeyboardMarkup( 
